@@ -28,13 +28,13 @@ This project demonstrates data cleaning, comparative analysis, Python-based visu
 ## Project Preview
 
 ### Spending as Percentage of GDP
-![Spending as Percentage of GDP](pct_gdp_spending_(1)[1].png)
+![Spending as Percentage of GDP](pct-gdp-spending.png)
 
 ### Education Spending Per Capita
-![Education Spending Per Capita](education_per_capita_(1)[1].png)
+![Education Spending Per Capita](education-per-capita.png)
 
 ### Health Spending Per Capita
-![Health Spending Per Capita](health_per_capita_(1)[1].png)
+![Health Spending Per Capita](health-per-capita.png)
 
 ## Skills Demonstrated
 
@@ -49,14 +49,13 @@ This project demonstrates data cleaning, comparative analysis, Python-based visu
 
 ## Project Files
 
-- `Government_Spending_Presentation.pptx` - Final presentation
-- `cleaned_per_capita_spending` - Cleaned per-capita dataset
-- `combined_per_capita_spending` - Combined spending dataset
-- `education_per_capita.png` - Education spending visualization
-- `health_per_capita.png` - Health spending visualization
-- `pct_gdp_spending.png` - Spending as percentage of GDP visualization
-- `Project_2.mp4` - Project presentation video
-- `Project_2_codes.mp4` - Code walkthrough video
+- `government-spending-presentation.pptx` - Final project presentation
+- `cleaned-per-capita-spending.csv` - Cleaned per-capita dataset
+- `education-per-capita.png` - Education spending visualization
+- `health-per-capita.png` - Health spending visualization
+- `pct-gdp-spending.png` - Spending as percentage of GDP visualization
+- `code-walkthrough.mp4` - Code walkthrough video
+- `military-spending-raw.xlsx` - Raw military spending dataset
 
 ## Summary
 
