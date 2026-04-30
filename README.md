@@ -28,13 +28,13 @@ This project demonstrates data cleaning, comparative analysis, Python-based visu
 ## Project Preview
 
 ### Spending as Percentage of GDP
-![Spending as Percentage of GDP](pct-gdp-spending.png)
+![Spending as Percentage of GDP](./pct-gdp-spending.png)
 
 ### Education Spending Per Capita
-![Education Spending Per Capita](education-per-capita.png)
+![Education Spending Per Capita](./education-per-capita.png)
 
 ### Health Spending Per Capita
-![Health Spending Per Capita](health-per-capita.png)
+![Health Spending Per Capita](./health-per-capita.png)
 
 ## Skills Demonstrated
 
